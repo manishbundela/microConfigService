@@ -7,3 +7,10 @@ eureka:
   instance:
     hostname: localhost
     prefer-ip-address: true 
+
+#used for set value
+user:
+  role: Admin
+
+welcome:
+  message: Welcome to the Spring Cloud Config managed application!
