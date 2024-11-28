@@ -1,0 +1,4 @@
+ application:
+    name: CONFIG-DEV
+server:
+  port: 8085 
